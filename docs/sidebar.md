@@ -5,10 +5,10 @@
 - [Beginner's Guide](pc-guide)
 - [Updating Mods](pc-updating)
 - [Custom Maps](pc-maploading)
-- **Quest Modding**
-- [Beginner's Guide](quest-guide)
-- [Updating Mods](quest-updating)
-- [Custom Maps](quest-maploading)
+- ~~**Quest Modding**~~
+- ~~Beginner's Guide~~
+- ~~Updating Mods~~
+- ~~Custom Maps~~
 - **Extras**
 - [Frequently Asked Questions](../faq)
 - **Links**
