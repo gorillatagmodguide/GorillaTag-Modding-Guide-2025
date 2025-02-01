@@ -20,14 +20,10 @@ For live support with this guide please visit us in **#installation-help** on th
 ### What can you do with mods?
 
 You can:
-- Play custom maps with [*Monke Map Loader*](https://monkemaphub.com/)
-- Customize your gorilla with custom materials, infected materials, and hats with [*Gorilla Cosmetics*](https://github.com/legoandmars/GorillaCosmetics)
-- Jump high with [*Space Monke*](https://github.com/legoandmars/SpaceMonke)
-- Change the look of the sky with [*MonkeSkies*](https://github.com/Raemien/MonkeSkies)
-- Dash where you look with [*DashMonke*](https://github.com/TrueTamashii/DashMonke)
-- Enhance the gorilla computer, see your currently loaded mods, change monitor POV, and more with [*Computer Interface*](https://github.com/ToniMacaroni/ComputerInterface)
+- Customize your gorilla with new cosmetics/shirts! [*GorillaShirts*](https://github.com/developer9998/GorillaShirts)
+- Mess around with other gorillas! [*Grate*](https://github.com/The-Graze/Grate)
 
-There are *many more mods* to discover, and you'll find them in the **Downloads** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
+There are *many more mods* to discover, and you'll find them in the **PC-Mod-Releases** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
 
 ### Is modding the game safe?
 
