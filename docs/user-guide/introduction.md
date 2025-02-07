@@ -9,6 +9,7 @@ Check us out on Twitter [@gorillatagmods](https://twitter.com/gorillatagmods).
 > Hey Burrito, this is **your** guide, i know it is, but ive just spruced it up a little, thank you for helping write majority of this guide.
 
 # The Guide
+
 <!-- <div class="horizontal bordered" data-ea-publisher="gorillatagmodding-burrito-software" data-ea-type="image" data-ea-manual="true" id="introduction"></div> -->
 <!-- Guide Page Ad -->
 <ins class="adsbygoogle"
