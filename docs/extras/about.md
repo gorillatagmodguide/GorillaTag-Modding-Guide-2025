@@ -1,10 +1,12 @@
 # About This Guide
 ---
-This guide is mainly written by [Burrito](https://twitter.com/BurritoSOFTWARE), with assistance and advice from the modders at the [**GorillaTag Modding Discord**](https://discord.gg/b2MhDBAzTv). The guide was inspired by [bsmg.wiki](https://bsmg.wiki).
+This guide is was mainly written by [Burrito](https://twitter.com/BurritoSOFTWARE), with assistance and advice from the modders at the [**GorillaTag Modding Discord**](https://discord.gg/b2MhDBAzTv). The guide was inspired by [bsmg.wiki](https://bsmg.wiki).
 
 > ## Credits
 >
 > ### Writers
+>
+> **Bran (for the updated guide)**
 > **Burrito, Steven, Bobbie, Lauriethefish, Nintendo Homebrew Discord Staff (original guide creators)**
 >
 > ### Translators/Proofreaders
