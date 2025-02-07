@@ -5,7 +5,7 @@
 Get up and running with modifications to Gorilla Tag to enhance your experience.  
 Reject humanity, return to monke.
 
-Original by Burrito, the guide can me found below!
+Original by Burrito, the guide can be found Here!
 [Old Guide Here!](https://gorillatagmodding.burrito.software)
 
 This guide is a fork of [wiiu.hacks.guide](https://wiiu.hacks.guide) and [Burrito's Mod Guide](https://gorillatagmodding.burrito.software)
