@@ -36,9 +36,11 @@ By default, Monke Mod Manager should automatically fill in your Gorilla Tag inst
 ?> If you installed Gorilla Tag to a seperate drive or path, Monke Mod Manager will prompt you to select `Gorilla Tag.exe` from your installation folder.
 Go to the [**Install Folder**](#install-folder) section to find your installation folder.
 
-Next, you may select any mods that are listed. BepInEx is the modloader for Gorilla Tag and cannot be unchecked. To update a mod, simply select the installed mod again. If you would like to get more information on a mod, click on it then hit the *View Mod Info* button.
+Next, ~~you may select any mods that are listed.~~ BepInEx is the modloader for Gorilla Tag and cannot be unchecked. ~~To update a mod, simply select the installed mod again. If you would like to get more information on a mod, click on it then hit the *View Mod Info* button.~~
 
 After you select the mods you would like to install/update, hit the *Install/Update* button to begin the process. When the status monitor in the bottom left says "*Install complete!*", you're almost there! 
+
+!> As of today the old Ultila is broken, this is the Ultila that MonkeModManager installs, you will need to replace that Ultila with [**Devloper9998's Ultila**](https://github.com/developer9998/Utilla)
 
 If it's your first time modding (or starting with a clean install), you'll need to launch Gorilla Tag once and close it to initialize BepInEx. **You may not see any mods load the first time you launch Gorilla Tag after modding, this is normal.**  
 After that, re-launch Gorilla Tag and if everything went well, your mods will now load into the game. Congratulations!
@@ -88,11 +90,11 @@ Either remove the mod's .dll or folder from the `BepInEx/plugins` folder, which 
 
 ## Installing Maps {docsify-ignore}
 
-> Check out the [**PC Custom Maps Guide**](pc-maploading) for info on custom maps, installation, and where to new new maps.
+> Has been replaced by Virtual Stump! Check it out!
 
 ## Updating Mods {docsify-ignore}
 
-> Check out the [**PC Mod Updating Guide**](pc-updating) for info on updating Gorilla Tag with mods installed.
+> Updating mods is as simple as downloading the new dll and puting it in your plugins folder.
 
 ---
 
