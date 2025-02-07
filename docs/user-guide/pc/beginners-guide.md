@@ -41,7 +41,7 @@ Next, ~~you may select any mods that are listed.~~ BepInEx is the modloader for 
 After you select the mods you would like to install/update, hit the *Install/Update* button to begin the process. When the status monitor in the bottom left says "*Install complete!*", you're almost there! 
 
 
-!> As of today the old Ultila is broken, this is the Ultila that MonkeModManager installs, you will need to replace that Ultila with [**Devloper9998's Ultila**](https://github.com/developer9998/Utilla)
+### As of today the old Ultila is broken, this is the Ultila that MonkeModManager installs, you will need to replace that Ultila with [**Devloper9998's Ultila**](https://github.com/developer9998/Utilla)
 
 If it's your first time modding (or starting with a clean install), you'll need to launch Gorilla Tag once and close it to initialize BepInEx. **You may not see any mods load the first time you launch Gorilla Tag after modding, this is normal.**  
 After that, re-launch Gorilla Tag and if everything went well, your mods will now load into the game. Congratulations!
