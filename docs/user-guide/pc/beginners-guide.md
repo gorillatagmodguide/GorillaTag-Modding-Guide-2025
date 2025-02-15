@@ -38,7 +38,7 @@ Go to the [**Install Folder**](#install-folder) section to find your installatio
 
 Next, you may select any mods that are listed. BepInEx is the modloader for Gorilla Tag and cannot be unchecked. To update a mod, simply select the installed mod again. If you would like to get more information on a mod, click on it then hit the *View Mod Info* button.
 
-!> To install "Custom Mods" or mods that arent listed in MMM scroll down to the **Install Mods** Section Below\
+!> To install "Custom Mods" or mods that arent listed in MMM scroll down to the **Install Mods** Section Below
 
 After you select the mods you would like to install/update, hit the *Install/Update* button to begin the process. When the status monitor in the bottom left says "*Install complete!*", you're almost there! 
 
