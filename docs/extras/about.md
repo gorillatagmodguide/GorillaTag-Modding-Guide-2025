@@ -10,7 +10,7 @@ This guide is was mainly written by [Burrito](https://twitter.com/BurritoSOFTWAR
 > **Burrito, Steven, Bobbie, Lauriethefish, Nintendo Homebrew Discord Staff (original guide creators)**
 >
 > ### Translators/Proofreaders
-> **Cmaster25 (German)**, **ComputerElite (Proofreader, German)**, **ForceVerte (Proofreader, French)**, **ISept (French)**
+> I need some!
 >
 > ---
 > Thank you to [everyone else](https://github.com/burritosoftware/GorillaTag-Modding-Guide/graphs/contributors) that contributed to the guide on GitHub.
