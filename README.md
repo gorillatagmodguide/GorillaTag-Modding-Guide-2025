@@ -1,7 +1,7 @@
 # Gorilla Tag Modding Guide
 
 
-# I NEED TRANSLATORS!!!!!!!!
+### I NEED TRANSLATORS!!!!!!!!
 if you are fluent in another language and are willing to translate this guide to help non-english speakers, dm me on discord. @wspbran
 
 
