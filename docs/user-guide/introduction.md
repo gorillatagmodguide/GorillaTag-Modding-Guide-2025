@@ -34,13 +34,13 @@ You can:
 - Change the background of the gorilla computer with [***Computer Backgrounds***](https://github.com/Striker-67/computer-backgrounds)
 - Mess around with other gorillas! [***Grate***](https://github.com/The-Graze/Grate)
 
-There are *many more mods* to discover, and you'll find them in the **PC-Mod-Releases** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
+There are ***many more mods*** to discover, and you'll find them in the **PC-Mod-Releases** category on the [GorillaTag Modding Discord](https://discord.gg/b2MhDBAzTv).
 
 ### Is modding the game safe?
 
 Modding the game is allowed by the developers of Gorilla Tag, however keep in mind the following:
 
-!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to private lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
+!> The use of mods that interfere with gameplay inside public lobbies is forbidden by the developers and can result in a ban. Please keep mods contained to MODDED lobbies. **Most gameplay-changing mods automatically disable joining public lobbies, but please be careful.**
 
 ### End Goal
 
