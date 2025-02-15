@@ -6,7 +6,7 @@ Reject humanity, return to monke.
 Check us out on Twitter [@gorillatagmods](https://twitter.com/gorillatagmods).
 
 # I need Translators!
-> If you or someone else you know are fluent in another language and are willing to translate this guide to help non-english speakers, dm me on discord. @wspbran
+!> If you or someone else you know are fluent in another language and are willing to translate this guide to help non-english speakers, dm me on discord. @wspbran
 
 # Note for Burrito.
 > Hey Burrito, this is **your** guide, i know it is, but ive just spruced it up a little, thank you for helping write majority of this guide.
