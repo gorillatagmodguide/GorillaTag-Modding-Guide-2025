@@ -19,4 +19,6 @@ Applicable hardware includes:
 
 ## ![Oculus Logo](https://icongr.am/simple/oculus.svg?color=A9A9A9&size=24)&nbsp;Quest Modding
 
-Quest modding isnt currently available, check back later!
+![No More Quest Mods](/docs/files/nomorequestmods.png)
+
+> As of **September 27th 2021** Quest Mods have been removed. Quest modding isnt currently available, check back later!
