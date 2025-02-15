@@ -2,16 +2,5 @@
   - <a href="#" data-link-title="Dark">Dark</a>
   - <a href="#" data-link-title="Light">Light</a>
 - ![Languages](https://icongr.am/material/translate.svg?color=A9A9A9&size=37)
-  - [English](/)
-<!---  - [Español](/es_ES/) -->
-  - [Deutsch](/de_DE/)
-  - [Français](/fr_FR/)
-<!---  - [日本語](/ja_JP/) -->
-<!---  - [简体中文](/zh_CN/) -->
-<!---  - [Dansk](/da_DK/) -->
-<!---  - [Nederlands](/nl_NL/) -->
-<!---  - [Norsk](/no_NO/) -->
-<!---  - [Polskie](/pl_PL/) -->
-<!---  - [Svenska](/sv_SE/) -->
-<!---  - [Pirate English](/en_PT/) -->
+  - Hey There! I need Translators For This. If You Are One DM me on discord. @wspbran
 - [![Discord](https://icongr.am/material/discord.svg?color=A9A9A9&size=37)](https://discord.gg/b2MhDBAzTv)
